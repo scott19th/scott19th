@@ -2,9 +2,9 @@
 
 👨‍👩‍👧‍👦 My name is Scott Clearie, I live in Edinburgh with my wife and our two beautiful children. 
 
-👨‍🎓 I studied at [Edinburgh's Heriot Watt University](https://www.hw.ac.uk/business.htm), graduting in 2009 with a MA (Hons) in Business
+👨‍🎓 I studied at Edinburgh's [Heriot Watt University](https://www.hw.ac.uk/business.htm), graduting in 2009 with a MA (Hons) in Business
 
-🍰 In 2010 I joined a pre-start up hospitality business called [Mimi's Bakehouse](https://mimisbakehouse.com). From humble beginnings we have grown the business to include seven physical sites, an online store and two wholesale plus agreements. Winning Scottish Baker of the Year Award in 2022.
+🍰 In 2010 I joined a pre-start up hospitality business [Mimi's Bakehouse](https://mimisbakehouse.com). From humble beginnings we have grown the business to include seven physical sites, an online store and two wholesale plus agreements. Winning Scottish Baker of the Year Award in 2022.
 
 🐍 My role has evolved as we have grown but has always encorporated business operations, project management and business analyses. The later of which led me to fall down the Python rabbit hole and I have experience in various libraries including; Pandas, Numpy, Plotly, Dash, etc. 
 

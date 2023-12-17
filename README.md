@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍👩‍👧‍👦 My name is Scott Clearie, I live in Edinburgh and am Dad of two beautiful children 
+👨‍👩‍👧‍👦 My name is Scott Clearie, currently live in Edinburgh and father to two beautiful children 
 
 👨‍🎓 I studied at Edinburgh's Heriot Watt University, graduting in 2009 with a MA (Hons) in Business
 
